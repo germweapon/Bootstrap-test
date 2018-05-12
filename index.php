@@ -12,7 +12,7 @@
     <meta name="viewport" content="width=device-width, maximum-scale=1, initial-scale=1, user-scalable=0">
     <meta name="keywords" content="">
     <meta name="description" content="">
-    <title>Zeeper App Landing Page</title>
+    <title>Germweapon App Landing Page</title>
     <!--Favicon-->
     <link rel="shortcut icon" type="image/png" href="assets/images/favicon.png">
     <!--Bootstrap CSS-->
@@ -710,7 +710,7 @@
                             <div class="panel panel-default wow fadeInUp" data-wow-delay="0.4s">
                                 <div class="panel-heading">
                                     <h4 class="panel-title">
-                                        <a class="font-600 accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse4">Is there any authentication system 
+                                        <a class="font-600 accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse4">Is there any authentication system
                                         ?</a>
                                     </h4>
                                 </div>
