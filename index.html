@@ -104,7 +104,7 @@
                     <!--Start Banner Caption-->
                     <div class="col-md-6">
                         <div class="caption-content">
-                            <h1 class="font-700 color-white text-uppercase wow fadeInUp" data-wow-delay="0.1s">Best App For Your Business</h1>
+                            <h1 class="font-700 color-white text-uppercase wow fadeInUp" data-wow-delay="0.1s">Best Product Manager For Your Business</h1>
                             <p class="color-white wow fadeInUp" data-wow-delay="0.2s">You can use the app for all kinds of business purpose. Besides you can easily customize the app according to your needs.</p>
                             <div class="caption-btn wow fadeInUp" data-wow-delay="0.3s">
                                 <a class="font-600" href="#app-download">Download</a><a class="font-600" href="#features">Features</a>
